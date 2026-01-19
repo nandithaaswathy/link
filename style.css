@@ -87,7 +87,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('images/ihrd model.jpg');
+    background-image: url('https://res.cloudinary.com/dr9noeab2/image/upload/v1768753931/ihrd_model_qedvti.jpg');
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -586,4 +586,5 @@ footer {
         padding-left: 0;
         /* Remove shift on hover for centered text */
     }
+
 }
